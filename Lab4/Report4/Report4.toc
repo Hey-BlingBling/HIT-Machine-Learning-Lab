@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}实验目的}{2}%
+\contentsline {section}{\numberline {2}实验要求及环境}{2}%
+\contentsline {subsection}{\numberline {2.1}实验要求}{2}%
+\contentsline {subsection}{\numberline {2.2}实验环境}{2}%
+\contentsline {section}{\numberline {3}基本思想}{2}%
+\contentsline {section}{\numberline {4}数据的生成}{3}%
+\contentsline {subsection}{\numberline {4.1}三维数据的生成}{3}%
+\contentsline {subsection}{\numberline {4.2}人脸数据读取}{3}%
+\contentsline {section}{\numberline {5}实验结果分析}{3}%
+\contentsline {subsection}{\numberline {5.1}三维数据降维后的结果}{3}%
+\contentsline {subsection}{\numberline {5.2}人脸数据降维结果}{5}%
+\contentsline {section}{\numberline {6}结论}{8}%

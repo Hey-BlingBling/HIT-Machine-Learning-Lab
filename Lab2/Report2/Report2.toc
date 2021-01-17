@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}实验目的}{2}%
+\contentsline {section}{\numberline {2}实验要求及环境}{2}%
+\contentsline {subsection}{\numberline {2.1}实验要求}{2}%
+\contentsline {subsection}{\numberline {2.2}实验环境}{2}%
+\contentsline {section}{\numberline {3}基本思想}{2}%
+\contentsline {section}{\numberline {4}数据的生成}{3}%
+\contentsline {section}{\numberline {5}损失函数}{3}%
+\contentsline {section}{\numberline {6}梯度下降法}{4}%
+\contentsline {subsection}{\numberline {6.1}不带惩罚项}{4}%
+\contentsline {subsection}{\numberline {6.2}带惩罚项}{5}%
+\contentsline {section}{\numberline {7}实验结果分析（以二分类为例）}{5}%
+\contentsline {subsection}{\numberline {7.1}实验数据满足朴素贝叶斯假设}{5}%
+\contentsline {subsection}{\numberline {7.2}实验数据不满足朴素贝叶斯假设}{6}%
+\contentsline {subsection}{\numberline {7.3}使用UCI上的数据进行测试}{7}%
+\contentsline {section}{\numberline {8}结论}{8}%
